@@ -1,5 +1,5 @@
 # Server-AZ10
-[Website page](https://cabbagetic-2-0.github.io/Server-AZ10/) for [AZ10 Minecraft Bedrock Server](https://discord.gg/qmAYZHj7Ag)
+[Website page](https://cabbagetic.github.io/Server-AZ10/) for [AZ10 Minecraft Bedrock Server](https://discord.gg/qmAYZHj7Ag)
 
 So the above **Website page** link is for the AZ10 (Afire Zaniness Server)'s website that belongs to this repository.
 
