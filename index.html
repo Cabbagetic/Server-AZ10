@@ -226,7 +226,7 @@ limitations under the License.
         
         
     const ip = "phoneserver.joinmc.playit.plus";
-    const port = "443";
+    const port = "25565";
     const name = "AZ10 Bedrock Server";
 
     // Detect iOS
@@ -254,7 +254,7 @@ limitations under the License.
     // Status Checker
     async function checkStatus() {
         try {
-            const response = await fetch(`https://api.mcstatus.io/v2/status/bedrock/${ip}:${port}`);
+            const response = await fetch(`https://api.mcstatus.io/v2/status/java/${ip}:${port}`);
             const data = await response.json();
             const statusElement = document.getElementById('status');
 
